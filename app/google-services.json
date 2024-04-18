@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252087213845",
+    "project_id": "projeto-imepac-rfl034",
+    "storage_bucket": "projeto-imepac-rfl034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252087213845:android:e81c0e1148d29b96d1d31c",
+        "android_client_info": {
+          "package_name": "br.com.faculdade.imepac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDraPhvXwZu4rI48buCd3_G5k9WorKl1OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
